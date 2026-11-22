@@ -1,5 +1,3 @@
-The source code will be made available as soon as the paper is published.
-
 ---
 
 ## Experimental Environment
@@ -36,5 +34,8 @@ The source code will be made available as soon as the paper is published.
 
 ### BDGP Dataset
 * λ1 = 0.1, λ2 = 100, λ3 = 0.01, λ4 = 10, λ5 = 0.001
+
+### Mnist4 Dataset
+* λ1 = 0.001, λ2 = 100, λ3 = 0.01, λ4 = 100, λ5 = 0.01
 
 ---
