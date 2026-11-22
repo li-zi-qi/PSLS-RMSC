@@ -1,5 +1,3 @@
----
-
 ## Experimental Environment
 
 * **CPU Frequency**: 4.16 GHz
@@ -37,5 +35,3 @@
 
 ### Mnist4 Dataset
 * λ1 = 0.001, λ2 = 100, λ3 = 0.01, λ4 = 100, λ5 = 0.01
-
----
